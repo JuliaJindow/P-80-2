@@ -1,0 +1,17 @@
+body {
+    background-color: palevioletred;
+    text-align: center;
+}
+
+.btn {
+    color: peachpuff;
+    background-color: royalblue;
+}
+
+.div_1 {
+    width: 49%;
+}
+
+.div_2 {
+    width: 49%;
+}
